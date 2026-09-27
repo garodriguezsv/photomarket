@@ -274,8 +274,3 @@ Las imágenes de ejemplo utilizadas actualmente serán reemplazadas progresivame
 ## 👨‍💻 Autor
 
 **Gerson Rodríguez**
-
-Ingeniero en Sistemas · UX/UI Designer · Front-End Developer · Nature Photographer
-```
-
-**Y una corrección:** en tu README original escribiste `## Nota final` y `## Proyecto Fotográfico`. He respetado ahora esa separación y he mantenido tus datos de **2020–2023**, los tres lugares y el nombre del proyecto de censos.
